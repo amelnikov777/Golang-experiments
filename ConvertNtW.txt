@@ -1,0 +1,1 @@
+This program outputs a textual writing to a given numeric value. It is relevant only for the Russian language.
